@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\bin\Debug\net6.0\Kopilka.exe
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\bin\Debug\net6.0\Kopilka.deps.json
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\bin\Debug\net6.0\Kopilka.runtimeconfig.json
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\bin\Debug\net6.0\Kopilka.dll
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\bin\Debug\net6.0\ref\Kopilka.dll
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\bin\Debug\net6.0\Kopilka.pdb
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\obj\Debug\net6.0\Kopilka.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\obj\Debug\net6.0\Kopilka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\obj\Debug\net6.0\Kopilka.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\obj\Debug\net6.0\Kopilka.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\obj\Debug\net6.0\Kopilka.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\obj\Debug\net6.0\Kopilka.dll
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\obj\Debug\net6.0\ref\Kopilka.dll
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\obj\Debug\net6.0\Kopilka.pdb
+C:\Users\HOME\Desktop\Учеба\Программирование\Dotnet\Kopilka\obj\Debug\net6.0\Kopilka.genruntimeconfig.cache
